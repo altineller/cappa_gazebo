@@ -10,7 +10,7 @@
 
 Click below to watch leo rover operating in `cappa_gazebo` world.
 
-[![youtube](img/video.png)](https://www.youtube.com/watch?v=KfLi7o068-s)
+[![youtube](img/video.png)](https://www.youtube.com/watch?v=cJ40pY9OZkQ&list=PLhs9beB-7uGmBwwLzHsA_CgLv8od5Ky2-)
 
 Below is example rocky terrain. Differences in elevation make it very challenging but possible for a UGV or quadruped to operate.
 
