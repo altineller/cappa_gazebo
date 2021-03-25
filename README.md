@@ -20,6 +20,19 @@ It has historical artifacts such as rock churches, underground houses, with inte
 
 ![history](img/history.png)
 
+**Interesting places to spawn your robot**
+
+This will place the robot in one of the highest points, where you can try to navigate to flatland without falling down.
+
+```
+<arg name="x" default="93.03"/>
+<arg name="y" default="-58.29"/>
+<arg name="z" default="54.0"/>
+<arg name="R" default="0.0"/>
+<arg name="P" default="0.0"/>
+<arg name="Y" default="3.14"/>
+```
+
 **Credits**
 
 The 3d mesh and texture was obtained from https://sketchfab.com/3d-models/goreme-ack-hava-muzesi-kapadokya-nevsehir-c9a3f745da944741babf3ff157a8384d
